@@ -277,7 +277,7 @@ header {
     line-height: 22px;
 }
 
-@media (max-width: 376px) {
+@media (max-width: 414px) {
 
     .banner {
         background: url('https://hexschool.github.io/Rwd_sketch_export/assets/header_mobile.png') no-repeat center;
@@ -398,7 +398,7 @@ header {
     line-height: 20px;
 }
 
-@media (max-width:376px) {
+@media (max-width:414px) {
 
     .point-title {
         margin-bottom: 20px;
@@ -454,7 +454,7 @@ header {
     margin-bottom: 20px;
 }
 
-@media (max-width:376px) {
+@media (max-width:414px) {
 
     .main-chef {
         flex-direction: column;
@@ -506,7 +506,7 @@ header {
     text-align: right;
 }
 
-@media (max-width:376px) {
+@media (max-width:414px) {
 
     .feedback {
         height: auto;
@@ -640,7 +640,7 @@ header {
     transform: translateY(-5px);
 }
 
-@media (max-width:376px) {
+@media (max-width:414px) {
 
     .reserve {
         padding: 20px 20px;
@@ -819,7 +819,7 @@ header {
 }
 
 
-@media (max-width:376px) {
+@media (max-width:414px) {
 
     .menu-content {
         flex-wrap: wrap;
@@ -1064,7 +1064,7 @@ header {
     flex: 2;
 }
 
-@media (max-width:376px) {
+@media (max-width:414px) {
 
     .register {
         width: 100%;
@@ -1158,7 +1158,7 @@ footer .contact {
     }
 }
 
-@media (max-width:376px) {
+@media (max-width:414px) {
 
     footer {
         flex-direction: column;
