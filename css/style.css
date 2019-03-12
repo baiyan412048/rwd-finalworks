@@ -678,14 +678,14 @@ header {
     margin-right: 10px;
 }
 
-.menu-sidebar li a{
+.menu-sidebar li a {
     display: block;
     width: 90%;
     padding: 15px 8px;
     border-bottom: 1px solid #3D1101;
 }
 
-.menu-sidebar li a{
+.menu-sidebar li a {
     text-decoration: none;
     color: #3D1101;
 }
@@ -818,7 +818,7 @@ header {
         margin: 3% 1%;
     }
 
-    .shopping{
+    .shopping {
         float: none;
     }
 
@@ -1134,15 +1134,14 @@ footer .contact {
 }
 
 .logo {
-    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
     flex: 2;
 }
 
 .social-media {
     font-size: 36px;
-    position: absolute;
-    right: 0;
-    top: 55px;
     cursor: pointer;
 }
 
@@ -1178,15 +1177,4 @@ footer .contact {
         line-height: 20px;
     }
 
-    footer .logo {
-        display: flex;
-        justify-content: flex-end;
-        flex-wrap: wrap;
-    }
-
-    .social-media {
-        position: relative;
-        right: 0;
-        top: 5px;
-    }
 }
